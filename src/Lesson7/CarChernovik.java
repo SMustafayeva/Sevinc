@@ -2,7 +2,7 @@ package Lesson7;
 
 import java.util.Scanner;
 
-public class CarParking {
+public class CarChernovik {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the quantity of cars: ");
