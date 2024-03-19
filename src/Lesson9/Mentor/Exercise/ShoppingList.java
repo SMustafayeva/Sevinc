@@ -1,4 +1,4 @@
-package Lesson9.Mentor;
+package Lesson9.Mentor.Exercise;
 
 import java.util.Arrays;
 
