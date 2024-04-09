@@ -3,7 +3,7 @@ package Lesson10.Homework;
 public class StringManipulation_output {
     public static void main(String[] args) {
         StringManipulation proverb = new StringManipulation();
-        proverb.proverb = "All Roads lead to Rome";
+        proverb.proverb = "        All Roads lead to Rome            ";
         int letters = proverb.lettersCount(proverb.proverb);
         String uppercase = proverb.upperCase(proverb.proverb);
         String lowercase = proverb.lowerCase(proverb.proverb);
