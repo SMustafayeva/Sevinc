@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson7.Mentor;
 
 public class MentorExercise2 {
     public static void main(String[] args) {

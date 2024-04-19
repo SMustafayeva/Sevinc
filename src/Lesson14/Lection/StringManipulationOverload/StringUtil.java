@@ -6,7 +6,7 @@ public class StringUtil {
     String middleName;
 
     public String concatenate (String name, String surname) {
-        return name.concat(surname) + " ";
+        return name.concat(" ").concat(surname);
     }
     public String concatenate (String name, String surname, String middleName) {
         return name + " " + surname + " " + middleName;
