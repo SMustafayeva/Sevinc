@@ -11,7 +11,7 @@ public class EBank {
         acc1.withdrawAmount(5);
         acc2.withdrawAmount(4000);
         acc3.withdrawAmount(50000);
-       acc4.withdrawAmount(23);
+        acc4.withdrawAmount(23);
 
 
     }
