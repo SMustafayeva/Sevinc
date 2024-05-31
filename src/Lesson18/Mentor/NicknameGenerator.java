@@ -7,7 +7,7 @@ public class NicknameGenerator {
         int birthYear = 1991;
       //  String nickname = name + surname + birthYear;
         String nickname = name.concat(surname).concat(String.valueOf(birthYear));
-        //System.out.println(nickname);
+        System.out.println(nickname);
 
         StringBuilder builder = new StringBuilder();
         builder.append(name.substring(0,3));
